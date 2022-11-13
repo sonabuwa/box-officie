@@ -1,7 +1,6 @@
-/* eslint-disable react/jsx-no-undef */
 import React from 'react';
 import { Link } from 'react-router-dom';
-// import { SearchCard } from '../styled';
+
 import { StyledShowCard } from './ShowCard.styled';
 
 const ShowCard = ({ id, image, name, summary }) => {
