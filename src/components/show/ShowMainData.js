@@ -1,4 +1,3 @@
-// eslint-disable-next-line
 import React from 'react';
 
 import IMG_PLACEHOLDER from '../../images/not-found.png';
@@ -13,7 +12,7 @@ const ShowMainData = ({ name, rating, summary, tags, image }) => {
         <Headline>
           <h1>{name}</h1>
           <div>
-            <Star />
+            <Star active />
             <span>{rating.average || 'N/A'}</span>
           </div>
         </Headline>
