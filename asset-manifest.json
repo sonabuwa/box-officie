@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/box-officie/static/css/main.b2586571.css",
+    "main.js": "/box-officie/static/js/main.122cb9de.js",
+    "static/js/787.6e354c4d.chunk.js": "/box-officie/static/js/787.6e354c4d.chunk.js",
+    "index.html": "/box-officie/index.html",
+    "main.b2586571.css.map": "/box-officie/static/css/main.b2586571.css.map",
+    "main.122cb9de.js.map": "/box-officie/static/js/main.122cb9de.js.map",
+    "787.6e354c4d.chunk.js.map": "/box-officie/static/js/787.6e354c4d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2586571.css",
+    "static/js/main.122cb9de.js"
+  ]
+}
